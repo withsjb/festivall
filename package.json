@@ -11,6 +11,7 @@
   "dependencies": {
     "@headlessui/react": "^1.7.4",
     "bcryptjs": "^2.4.3",
+    "faker": "^6.6.6",
     "js-cookie": "^3.0.1",
     "mongoose": "^6.7.2",
     "next": "13.0.0",
@@ -20,6 +21,7 @@
     "react-hook-form": "^7.39.1",
     "react-kakao-maps-sdk": "^1.1.5",
     "react-slick": "^0.29.0",
+    "react-table": "^7.8.0",
     "react-toastify": "^9.1.1",
     "slick-carousel": "^1.8.1"
   },

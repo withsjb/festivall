@@ -59,7 +59,29 @@ export default function ad() {
             <div className={Styles.atitle}>이거다무야호!!</div>
             <div className={Styles.awrite}>이 축제 정말 대단합니다!</div>
           </div>
-          <div className={Styles.introb}></div>
+          <div className={Styles.introb}>
+            <table className={Styles.tablea}>
+              <thead>
+                <tr>
+                  <td>11</td>
+                  <td>2</td>
+                  <td>3</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>11</td>
+                  <td>2</td>
+                  <td>3</td>
+                </tr>
+                <tr>
+                  <td>11</td>
+                  <td>2</td>
+                  <td>3</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
           <div className={Styles.introcc}>
             <button className={Styles.btn}>축제행사장안내도</button>
             <button className={Styles.btn}>축제찾아오는길</button>

@@ -109,3 +109,18 @@
 .btn:hover {
   color: #2ecc71;
 }
+
+.tablea {
+  border-width: 5px;
+  border-color: gray;
+}
+
+.tablea > tr {
+  border-width: 5px;
+  border-color: gray;
+}
+
+.tablea > td {
+  border-width: 5px;
+  border-color: gray;
+}
